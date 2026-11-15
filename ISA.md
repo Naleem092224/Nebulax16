@@ -1,4 +1,4 @@
-# 16-Bit CPU ISA Specification
+# Nebulax16 ISA Specification
 
 ## Overview
 
